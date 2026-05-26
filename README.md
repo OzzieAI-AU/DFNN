@@ -1,5 +1,7 @@
 # Deterministic Fractal Neural Networks (DFNN)
 
+This model is just the start of a massive paradigm shift in AI!
+
 ## Overview
 The **Deterministic Fractal Neural Network (DFNN)** is a paradigm-shifting architecture that replaces traditional stochastic weight initialization and iterative backpropagation with dynamic, entropy-driven manifolds. By mapping input sequences into orthogonal phase-coupled manifolds via irrational constants and prime-gap signatures, DFNNs achieve high-dimensional segregation without requiring a single training cycle.
 
