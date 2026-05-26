@@ -1,0 +1,14 @@
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\bin\Debug\net10.0\DFMA.exe
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\bin\Debug\net10.0\DFMA.deps.json
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\bin\Debug\net10.0\DFMA.runtimeconfig.json
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\bin\Debug\net10.0\DFMA.dll
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\bin\Debug\net10.0\DFMA.pdb
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.AssemblyInfoInputs.cache
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.AssemblyInfo.cs
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.csproj.CoreCompileInputs.cache
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.dll
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\refint\DFMA.dll
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.pdb
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\DFMA.genruntimeconfig.cache
+C:\Users\Jingl\Desktop\OzzieAI Code\DFMA\DFMA\DFMA\obj\Debug\net10.0\ref\DFMA.dll

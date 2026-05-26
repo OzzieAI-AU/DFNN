@@ -1,0 +1,14 @@
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\bin\Debug\net10.0\FractalPrimeNeuralNetwork.exe
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\bin\Debug\net10.0\FractalPrimeNeuralNetwork.deps.json
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\bin\Debug\net10.0\FractalPrimeNeuralNetwork.runtimeconfig.json
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\bin\Debug\net10.0\FractalPrimeNeuralNetwork.dll
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\bin\Debug\net10.0\FractalPrimeNeuralNetwork.pdb
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.AssemblyInfo.cs
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.dll
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\refint\FractalPrimeNeuralNetwork.dll
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.pdb
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\FractalPrimeNeuralNetwork.genruntimeconfig.cache
+C:\Users\Jingl\Desktop\OzzieAI Code\FractalPrimeNeuralNetwork\FractalPrimeNeuralNetwork\obj\Debug\net10.0\ref\FractalPrimeNeuralNetwork.dll
